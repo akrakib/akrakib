@@ -138,3 +138,22 @@ timezone: 🕒 UTC +06:00
 <p align="center">
   <img src="https://github.com/akrakib/akrakib/blob/output/github-contribution-grid-snake-dark.svg" />
 </p>
+
+
+
+## 🚀 Featured Projects
+
+- 🔐 **Cybersecurity Toolkit**  
+  👉 https://github.com/akrakib/project1  
+
+- 🤖 **AI Chatbot**  
+  👉 https://github.com/akrakib/project2  
+
+- 🌐 **Portfolio Website**  
+  👉 https://github.com/akrakib/project3  
+
+- 📱 **Android App**  
+  👉 https://github.com/akrakib/project4
+
+
+  
