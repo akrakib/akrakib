@@ -18,14 +18,33 @@ education: 🎓 Student of Computer Science & Technology at Rangpur Polytechnic 
 focus: 🛠️ Development & Security
 status: 🚀 Building impactful projects & learning continuously
 timezone: 🕒 UTC +06:00
+```
+## 🚀 What I'm Up To
 
----
+- 🔭 Currently building **meaningful and scalable open-source projects**
+- 🌱 Expanding my expertise in **Cybersecurity, AI, and modern technologies**
+- 🤖 Exploring **Prompt Engineering** and advanced AI tools
+- 💡 Passionate about **continuous learning, problem-solving, and innovation**
+- 🤝 Open to **collaborations, freelance work, and exciting opportunities**
 
-## 🚀 What I'm Doing Now
+## 🛠️ Tech Stack & Tools
 
-- 🔭 Working on open-source projects  
-- 🌱 Learning **Cybersecurity & AI Tools**  
-- 🛠 Exploring **Python & Web Development**  
-- 🎯 Goal: Become a professional Security Engineer
 
----
+<p align="center">
+  🚀 Languages</br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+<p align="center">
+  ⚙️ Tools & Platforms</br>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+</p>
