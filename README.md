@@ -1,4 +1,16 @@
-
+Name       :  Ak Rakib  <br/>
+location   : 📍 Rangpur, Dhaka, Bangladesh  <br/>
+Education  : 🎓 Student of Computer Science & Technology at Rangpur Polytechnic Institute<br/>
+Focus      : 🛠 Development & 🛡 Security<br/>
+Status     : 🚀 Building impactful projects & learning continuously<br/>
+Timezone   : 🕐 UTC +06:00<br/>
+<br/>
+🚀 What I'm Up To <br/>
+🔭 Currently working on impactful open-source projects<br/>
+🌱 Deepening my knowledge in Cybersecurity & AI<br/>
+🤖 Exploring Prompt Engineering and AI tools<br/>
+💡 Always eager to learn, build, and improve<br/>
+🤝 Open to collaborations on interesting projects<br/>
 
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning C++
