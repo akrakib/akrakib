@@ -61,3 +61,35 @@ timezone: 🕒 UTC +06:00
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=akrakib&theme=tokyo-night&hide_border=true" />
 </p>
+
+## 🎯 Areas of Interest
+
+<table align="center">
+<tr>
+  <th>🔐 Cybersecurity</th>
+  <th>🤖 AI & ML</th>
+  <th>💻 Programming</th>
+  <th>🌐 Web Dev</th>
+</tr>
+
+<tr>
+  <td align="center">Ethical Hacking</td>
+  <td align="center">Prompt Engineering</td>
+  <td align="center">Problem Solving</td>
+  <td align="center">HTML/CSS/JS</td>
+</tr>
+
+<tr>
+  <td align="center">Network Security</td>
+  <td align="center">AI Tools</td>
+  <td align="center">Algorithms</td>
+  <td align="center">Responsive Design</td>
+</tr>
+
+<tr>
+  <td align="center">CTF Challenges</td>
+  <td align="center">LLMs</td>
+  <td align="center">Open Source</td>
+  <td align="center">Projects</td>
+</tr>
+</table>
