@@ -132,3 +132,9 @@ timezone: 🕒 UTC +06:00
 </p>
 
 ---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/akrakib/akrakib/blob/output/github-contribution-grid-snake-dark.svg" />
+</p>
