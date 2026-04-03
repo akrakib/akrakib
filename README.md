@@ -109,7 +109,7 @@ timezone: 🕒 UTC +06:00
   <a href="https://rosterkabir.wordpress.com/about/">
     <img src="https://img.shields.io/badge/Website-Visit-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
-  
+ 
   <a href="https://instagram.com/rakib99m">
     <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
@@ -122,3 +122,13 @@ timezone: 🕒 UTC +06:00
     <img src="https://img.shields.io/badge/Fiverr-Hire%20Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
   </a>
 </p>
+
+
+## 💬 A Quote I Live By
+
+<p align="center">
+  <i>"The more I learn, the more I realize how much I don't know."</i>  
+  <br>— Albert Einstein
+</p>
+
+---
