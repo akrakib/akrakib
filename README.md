@@ -93,3 +93,32 @@ timezone: 🕒 UTC +06:00
   <td align="center">Projects</td>
 </tr>
 </table>
+
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/akrakib">
+    <img src="https://img.shields.io/badge/GitHub-akrakib-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  
+  <a href="https://facebook.com/YoutuberKabir">
+    <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  
+  <a href="https://rosterkabir.wordpress.com/about/">
+    <img src="https://img.shields.io/badge/Website-Visit-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  
+  <a href="https://instagram.com/rakib99m">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+  <a href="mdahasanulkabirrakib@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.fiverr.com/loogomart">
+    <img src="https://img.shields.io/badge/Fiverr-Hire%20Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
+  </a>
+</p>
