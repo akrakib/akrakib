@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0b132b,50:1c2541,100:3a86ff&text=AK%20Rakib&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20|%20Cybersecurity%20Enthusiast&descAlignY=60&descAlign=50" width="100%"/>
 
-<h2 align="center">Always Learn 🚀</h2>
+<h2 align="center">Always Learning 🚀</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=akrakib&label=Profile%20Views&color=3a86ff&style=flat" />
@@ -47,4 +47,17 @@ timezone: 🕒 UTC +06:00
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=akrakib&theme=tokyonight&hide_border=true&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" />
+</p>
+
+## 🏆 GitHub Activities
+
+<p align="center">
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akrakib&theme=tokyo-night&hide_border=true" />
 </p>
