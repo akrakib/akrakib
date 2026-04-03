@@ -1,4 +1,4 @@
-Name       :  Ak Rakib  <br/>
+Name       :  AK Rakib  <br/>
 location   : 📍 Rangpur, Dhaka, Bangladesh  <br/>
 Education  : 🎓 Student of Computer Science & Technology at Rangpur Polytechnic Institute<br/>
 Focus      : 🛠 Development & 🛡 Security<br/>
