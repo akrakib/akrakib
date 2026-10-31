@@ -14,12 +14,12 @@
 # 👨‍💻 About Me
 
 ```yaml
-name: AK Rakib
-location: 📍 Rangpur, Dhaka, Bangladesh
-education: 🎓 Student of Computer Science & Technology at Rangpur Polytechnic Institute
-focus: 🛠️ Development & Security
-status: 🚀 Building impactful projects & learning continuously
-timezone: 🕒 UTC +06:00
+Name      : A KABIR
+Location  : 📍 Rangpur, Dhaka, Bangladesh
+Education : 🎓 Student of Computer Science & Technology at Rangpur Polytechnic Institute
+Focus     : 🛠️ Development & Security
+Status    : 🚀 Building impactful projects & learning continuously
+Timezone  : 🕒 UTC +06:00
 ```
 ## 🚀 What I'm Up To
 
